@@ -1,0 +1,5 @@
+const WAITING = "WAITING";
+const ACCEPTED = "ACCEPTED";
+const COMPLETED = "COMPLETED";
+
+module.exports = { WAITING, ACCEPTED, COMPLETED };
